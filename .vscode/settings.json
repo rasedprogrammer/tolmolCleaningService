@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)", // can change for theme that you have downloaded extension
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true // this great for indent code on SAVE
+    },
+}
